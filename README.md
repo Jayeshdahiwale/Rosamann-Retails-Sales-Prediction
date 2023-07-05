@@ -1,4 +1,4 @@
-# RegressionCapstoneProjectII
+# Rosamann Retails Sales Prediction
 This report looks at store and sales data for Rossmann drug stores, a large drug store chain that operates several thousand stores all across Europe (Rossmann Store Sales, 2015). It looks at data covering more than a thousand stores, with information ranging from store model, distance from competitor stores, to promos currently running. It also looks at the number of customers and number of sales for each store on a daily level over a period of more than two and a half years.
 
 ## Table of Content
